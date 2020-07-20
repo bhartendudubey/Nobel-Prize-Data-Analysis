@@ -25,4 +25,4 @@ library(ggraph)
 ```
 Useful insights such as the patterns in motivational quotes of Nobel laureates were used to form a word cloud represetation.
 
-[My image](https://github.com/bhartendudubey/Nobel-Prize-Data-Analysis/blob/master/plots/Rplot-18.png)
+[My image](https://github.com/bhartendudubey/Nobel-Prize-Data-Analysis/blob/master/plots/Rplot-18.png?raw=true)
